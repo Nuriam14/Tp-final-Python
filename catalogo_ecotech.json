@@ -1,0 +1,18 @@
+[
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar 300W",
+        "precio": 250.0,
+        "stock": 10,
+        "potencia_w": 300.0,
+        "eficiencia": 18.5
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel Solar 450W",
+        "precio": 390.0,
+        "stock": 5,
+        "potencia_w": 450.0,
+        "eficiencia": 21.0
+    }
+]
